@@ -1,2 +1,3 @@
-# Blog_app
-blog_app_for_coursera
+# Blog-App itertion 1
+
+Coursera week 2 assignment.
